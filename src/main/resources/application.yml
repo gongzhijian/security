@@ -5,7 +5,7 @@ spring:
   datasource:
     #mysql版本为8.0.13
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/nrsc-security?characterEncoding=utf-8&serverTimezone=GMT&useSSL=false
+    url: jdbc:mysql://127.0.0.1:3306/nrsc_security?characterEncoding=utf-8&serverTimezone=GMT&useSSL=false
     username: root
     password: 123456
 
